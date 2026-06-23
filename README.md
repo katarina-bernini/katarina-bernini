@@ -4,7 +4,7 @@ Graduanda em Análise e Desenvolvimento de Sistemas e Técnica em Informática. 
 trazendo uma sólida bagagem de disciplina, atenção a processos complexos e foco em garantia de qualidade do 
 setor industrial para o desenvolvimento de software.
 
-### Tecnologias e Estudos
+###  Tecnologia e Estudos
 
 * **Foco Atual (Praticando ativamente):** Lógica de Programação, Python, VS Code, Git & GitHub.
 * **Conhecimentos de Base (Histórico Técnico):** Noções em Java, JavaScript, PHP, SQL e Bancos de Dados (MySQL / Oracle).
